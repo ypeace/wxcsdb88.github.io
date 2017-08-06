@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://blog.wxcsdb88.com
+url: http://blog.ypeace.com
 date_format: "ordinal"
 title: 路漫漫兮
 subtitle: "码上人生"
-description: "王鑫的个人博客"
-keywords: 路漫漫兮, XIN WANG, wxcsdb88, futurever
+description: "荷萍的个人博客"
+keywords: ypeace
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: XIN WANG
+author: ypeace
 organization: futurever.com
-organization_url: http://www.futurever.com
-github_username: wxcsdb88
+organization_url: http://www.ypeace.com
+github_username: ypeace
 location: BeiJing, China
-email: wangxin@futurever.com
+email: ypeace@futurever.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: wxcsdb88/wxcsdb88.github.io
+repository: ypeace/ypeace.github.io
 
 # ---------------- #
 #      Comments    #
@@ -89,14 +89,14 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: wxcsdb88
+    username: ypeace
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: wxcsdb88
+    owner: ypeace
     repo: blog-comments
     oauth:
-        client_id: 9f651eb6e49a0d3b4d98
-        client_secret: 64f2c9ce0051f2f25cd7f82e1d377050e27d4dc1
+        client_id: c6cc9bd72d45aaf8527b
+        client_secret: f844d09312f58b4c80d5a33f4ef9d08c2f132fba
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 

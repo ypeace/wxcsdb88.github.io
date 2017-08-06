@@ -39,10 +39,10 @@
     {% when 'disqus' %}
       {% if site.disqus and site.disqus.username %}
         {% assign load_disqus = true %}
-        <!-- Disqus Protection, see https://github.com/wxcsdb88/wxcsdb88.github.io/issues/2 -->
-        {% if site.disqus.username == 'wxcsdb88' %}
+        <!-- Disqus Protection, see https://github.com/ypeace/ypeace.github.io/issues/2 -->
+        {% if site.disqus.username == 'ypeace' %}
           {% assign load_disqus = false %}
-          {% if site.url contains 'wxcsdb88.com' %}
+          {% if site.url contains 'ypeace.com' %}
             {% assign load_disqus = true %}
           {% endif %}
         {% endif %}

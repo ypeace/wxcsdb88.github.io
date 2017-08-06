@@ -1,6 +1,6 @@
-# wxcsdb88.github.io
+# ypeace.github.io
 
-**博客访问地址：[http://blog.wxcsdb88.com](http://blog.wxcsdb88.com)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
+**博客访问地址：[http://blog.ypeace.com](http://blog.ypeace.com)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
 
 ## 各部分详情
 
@@ -26,4 +26,4 @@
 
 ## License
 
-[MIT License](https://github.com/wxcsdb88/wxcsdb88.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/ypeace/ypeace.github.io/blob/master/LICENSE.md)

@@ -1,25 +1,7 @@
-- name: Software Engineer
+- name: Front Software Engineer
   keywords:
-      - Java
-      - Go
-      - Python
       - Js
       - HTML
       - Design Patterns
       - Git
-      - SQL
-
-- name: Dev ops
-  keywords:
-      - Linux
-      - Docker
-      - Nginx
-      - Shell
-
-- name: DB
-  keywords:
-      - MySQL
-      - Redis
-      - Rethinkdb
-      - Mongdb
-      - Leveldb
+      - CSS
